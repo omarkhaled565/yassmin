@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/omarkhaled565/yassmin.git/static/css/main.bb73ef33.css",
+    "main.js": "/omarkhaled565/yassmin.git/static/js/main.284e7df9.js",
+    "static/js/787.45cff829.chunk.js": "/omarkhaled565/yassmin.git/static/js/787.45cff829.chunk.js",
+    "index.html": "/omarkhaled565/yassmin.git/index.html",
+    "main.bb73ef33.css.map": "/omarkhaled565/yassmin.git/static/css/main.bb73ef33.css.map",
+    "main.284e7df9.js.map": "/omarkhaled565/yassmin.git/static/js/main.284e7df9.js.map",
+    "787.45cff829.chunk.js.map": "/omarkhaled565/yassmin.git/static/js/787.45cff829.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb73ef33.css",
+    "static/js/main.284e7df9.js"
+  ]
+}
